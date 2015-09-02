@@ -1,0 +1,27 @@
+div{display:inline;}
+.pager_list
+{
+    border:1px solid darkorchid;
+    border-radius: 5px;
+    padding: 4px 8px;
+}
+.pager_list:hover
+{
+    background: darkorchid;
+    color: white;
+    cursor: pointer;
+}
+span
+{
+    font-family: monospace;
+    color: darkorchid;
+}
+.pager_control:hover
+{
+    cursor: pointer;
+    font-weight: bold;
+}
+.pager_control
+{
+    padding:0 10px;
+}

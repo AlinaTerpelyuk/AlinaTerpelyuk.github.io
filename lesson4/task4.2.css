@@ -1,0 +1,28 @@
+div
+{
+    background: darkorchid;
+    width: 100%;
+}
+.menu
+{
+    padding-left: 35px;
+    width: 900px;
+}
+.list {
+    display: inline-block;
+    font-family: 'Impact';
+    color: whitesmoke;
+    font-weight: lighter;
+    margin: 3px 15px;
+    padding: 3px 8px;
+    vertical-align: middle;
+}
+.list:hover
+{
+    background: gainsboro;
+    cursor: pointer;
+    color: dimgray;
+    margin: 0 15px;
+    padding: 6px 8px;
+}
+#list_more{float:right;}
